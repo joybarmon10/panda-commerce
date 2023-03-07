@@ -1,0 +1,140 @@
+.orange-bg{
+    background-color: #fceae8;
+    margin-top: 100px;
+    border-radius: 10px;
+
+}
+.name{
+    text-align: left;
+    margin-top: 10%;
+    padding-left: 20px;
+}
+
+.panda-logo{
+    height: 50px;
+}
+.navbar {
+    border-radius: 10px;
+}
+.price{
+    text-align: left;
+    color: #FF136F;
+    padding-left: 20px;
+}
+ .p-class { 
+    text-align: left;
+    padding-left: 20px;
+}
+.buy-now{
+    text-align: center;
+        background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+        color: white;
+        border: none;
+        padding: 9px 25px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+}
+
+.categories{
+    padding-top: 100px; 
+    color: white;
+    
+}
+.categories img{
+    width: 120px;
+    padding: 10px;
+}
+.color-orange,.color-orchid,.color-blue{
+    padding-top: 10px 30px; 
+    border-radius: 10px;
+}
+.color-orange{
+    
+    background-image: linear-gradient(to right, orange, red);
+    
+}
+.color-orchid{
+    background-image: linear-gradient(to right, rgb(255, 0, 76), red);
+    
+}
+.color-blue{
+    background-image: linear-gradient(to right, rgb(247, 1, 152), rgb(49, 204, 231));
+    
+}
+.margin-h1 {
+    margin-right: 20%;
+}
+.buy-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 5px;
+}
+.card{
+    
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+    
+
+}
+.Shoes{
+    margin-top: 50px;
+}
+.padding-top-shoe{
+    padding-top: 70px;
+}
+.bagpack{
+    padding-top: 70px;
+}
+#subscribe{
+    background-color: #fceae8;
+    border-radius: 10px;
+    padding-top: 50px;
+    margin-top: 70px;
+
+}
+#subscribe h6{
+    color: gray;
+}
+.div-padding{
+    padding: 70px;
+    
+}
+input{
+    border: none;
+}
+.submit-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+        color: white;
+        border: none;
+        padding: 9px 25px;
+        border-radius: 5px;
+        margin-top: 5px;
+        
+}
+footer{
+    text-align: center;
+    margin-top: 70px;
+}
+@media (max-width:500px) {
+    .top {
+        width: 100%;
+    }
+
+}
+@media (min-width:700px) {
+    
+    .top {
+            width: 120%; 
+            
+            
+            
+        }
+                .p-class {
+                   text-align: left;
+                   margin-right: 30px;
+                }
+}
+    
